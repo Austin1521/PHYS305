@@ -37,6 +37,8 @@ parts:
   chapters:
   - file: 07/notes
   - file: 07/lab
+  - file: 07/sol
 - caption: Numerical Integration of Functions
   chapters:
   - file: 08/notes
+  - file: 08/lab
