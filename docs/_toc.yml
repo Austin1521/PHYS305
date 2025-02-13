@@ -42,3 +42,8 @@ parts:
   chapters:
   - file: 08/notes
   - file: 08/lab
+  - file: 08/sol
+- caption: Root finding
+  chapters:
+  - file: 09/notes
+  - file: 09/lab
