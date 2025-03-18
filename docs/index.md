@@ -40,10 +40,10 @@ Please include "PHYS305" in subjects of emails
 5  | Feb  9–Feb 15 | {doc}`08/notes` ({doc}`lab <08/lab>`, {doc}`sol <08/sol>`)      | {doc}`09/notes` ({doc}`lab <09/lab>`, {doc}`sol <09/sol>`)
 6  | Feb 16–Feb 22 | {doc}`10/notes` ({doc}`lab <10/lab>`, {doc}`sol <10/sol>`; {doc}`homework <https://classroom.github.com/a/YPK86akT>`) | {doc}`11/notes` ({doc}`lab <11/lab>`, {doc}`sol <11/sol>`)
 7  | Feb 24–Mar  1 | {doc}`12/notes` ({doc}`lab <12/lab>`, {doc}`sol <12/sol>`)      | [Selected techniques in machine learning](13/slides.pdf) ({doc}`lab <13/lab>`)
-8  | Mar  2–Mar  8 | Project I presentations                                         | Project I presentations (homework)
+8  | Mar  2–Mar  8 | Project I presentations                                         | Project I presentations ({doc}`homework <https://classroom.github.com/a/EWQBHHDo>`)
 9  | Mar  9–Mar 15 | **Spring recess (no class)**                                    | **Spring recess (no class)**
-10 | Mar 16–Mar 22 | The C programming language                                      | ODE integrators I: explicit methods
-11 | Mar 24–Mar 29 | ODE integrators II: implicit and symplectic methods             | ODE integrators III: boundary value problems (homework)
+10 | Mar 16–Mar 22 | {doc}`14/notes` ({doc}`lab <14/lab>`, sol)                      | ODE integrators II: implicit and symplectic methods
+11 | Mar 24–Mar 29 | ODE integrators III: boundary value problems                    | The C programming language (homework)
 12 | Mar 30–Apr  5 | Monte Carlo methods I: random numbers and random walk           | Monte Carlo methods II: Ising model
 13 | Apr  6–Apr 12 | Monte Carlo methods III: Hopfield network and Boltzmann machine | Parallel computing (homework)
 14 | Apr 13–Apr 19 | Numerical PDEs I: properties of PDEs                            | Numerical PDEs II: finite difference and spectral methods
